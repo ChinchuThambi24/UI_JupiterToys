@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "project": {
+      "id": "10058"
+    },
+    "summary": "Brand new Test execution",
+    "description": "SCAO Test Execution Result",
+    "issuetype": {
+      "id": "10033"
+    },
+    "labels": ["TEST"]
+  },
+  "xrayFields": {
+    "testPlanKey": "SCAO-930"
+  }
+}

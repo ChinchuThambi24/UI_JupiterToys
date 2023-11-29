@@ -1,0 +1,7 @@
+{
+    "browservalue": "chrome",
+    "windowMaximize" : "true",
+    "url": "http://jupiter.cloud.planittesting.com",
+    "driverPath" : "./lib/driver/chromedriver.exe",
+    "implicitlyWait" : "10"
+}

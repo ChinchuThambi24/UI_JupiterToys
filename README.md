@@ -12,6 +12,8 @@ Page file : Page.java (all the methods)
 
 Object file : PageObjects.java (all the objects and locators)
 
+pom.xml file holds all the project dependencies
+
 Testdata file: TestDataProvider.java (test data for the test cases)
 
 Screenshots folder: /bin/Debug/Screenshots (holds all the screenshots)

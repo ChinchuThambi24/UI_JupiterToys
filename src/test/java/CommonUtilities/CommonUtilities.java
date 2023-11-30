@@ -35,7 +35,7 @@ public class CommonUtilities {
             File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
             fileName = fileName +"_"+GetDate();
             try {
-                FileUtils.copyFile(screenshot, new File("bin/Debug/screenshots", fileName+".png"));
+                FileUtils.copyFile(screenshot, new File("bin/Debug/Screenshots", fileName+".png"));
             } catch (IOException e) {
                 System.out.println(e.getMessage());
             }
